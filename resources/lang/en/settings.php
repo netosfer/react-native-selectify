@@ -1,0 +1,30 @@
+<?php
+
+return [
+	"module_title" => "General Settings",
+	"edit_setting" => "Edit Setting",
+	"add_setting" => "Add Setting",
+	"logo" => "Logo",
+	"footer_logo" => "Footer Logo",
+	"favicon" => "Favicon",
+	"site_title" => "Site Title",
+	"site_description" => "Site Description",
+	"admin_email" => "Admin Email",
+	"copyright" => "Copyright",
+    "choose_icon" => "Choose Icon",
+	"cookie_alert" => "Cookie Alert",
+	"site_images" => "Site Images",
+	"site_informations" => "Site Informations",
+	"color" => "Color",
+	"html_codes" => "HTML Codes",
+	"header_html_code" => "Header HTML",
+	"footer_html_code" => "Footer HTML",
+	"social_links" => "Social Links",
+	"smtp_configurations" => "SMTP Configurations",
+	"google_recaptcha" => "Google Recaptcha",
+	"smtp_host" => "SMTP Host",
+	"smtp_port" => "SMTP Port",
+	"smtp_username" => "SMTP Username",
+	"smtp_password" => "SMTP Password",
+    "site_settings" => "Site Settings"
+];

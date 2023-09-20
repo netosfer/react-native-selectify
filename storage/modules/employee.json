@@ -1,0 +1,79 @@
+{
+    "module": "Employee",
+    "language": false,
+    "addable": true,
+    "fields": [
+        {
+            "label": "Employee Type",
+            "name": "employee_type",
+            "form": "select",
+            "values": null,
+            "type": "array",
+            "table_type": "boolean",
+            "required": true,
+            "column": true,
+            "only_main_lang": false
+        },
+        {
+            "label": "Employee ID",
+            "name": "employee_id",
+            "form": "text",
+            "type": null,
+            "table_type": "string",
+            "required": false,
+            "column": true,
+            "only_main_lang": false
+        },
+        {
+            "label": "Full Name",
+            "name": "full_name",
+            "form": "text",
+            "type": null,
+            "table_type": "string",
+            "required": true,
+            "column": true,
+            "only_main_lang": false
+        },
+        {
+            "label": "Employee Duty",
+            "name": "employee_duty",
+            "form": "select",
+            "values": null,
+            "type": "array",
+            "table_type": "string",
+            "required": true,
+            "column": true,
+            "only_main_lang": false
+        },
+        {
+            "label": "Start Date of Work",
+            "name": "start_date_of_work",
+            "form": "text",
+            "type": null,
+            "table_type": "date",
+            "required": false,
+            "column": true,
+            "only_main_lang": false
+        },
+        {
+            "label": "End Date of Work",
+            "name": "end_date_of_work",
+            "form": "text",
+            "type": null,
+            "table_type": "date",
+            "required": false,
+            "column": false,
+            "only_main_lang": false
+        },
+        {
+            "label": "Files",
+            "name": "files",
+            "form": "images",
+            "type": null,
+            "table_type": "longText",
+            "required": false,
+            "column": false,
+            "only_main_lang": false
+        }
+    ]
+}

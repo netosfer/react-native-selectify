@@ -1,0 +1,48 @@
+{
+    "module": "Category",
+    "language": true,
+    "addable": true,
+    "fields": [
+        {
+            "label": "Image",
+            "name": "image",
+            "form": "image",
+            "type": null,
+            "table_type": "string",
+            "required": true,
+            "column": true,
+            "only_main_lang": true
+        },
+        {
+            "label": "Title",
+            "name": "title",
+            "form": "text",
+            "type": null,
+            "table_type": "string",
+            "required": true,
+            "column": true,
+            "only_main_lang": false
+        },
+        {
+            "label": "Description",
+            "name": "description",
+            "form": "textarea",
+            "type": null,
+            "table_type": "text",
+            "required": false,
+            "column": false,
+            "only_main_lang": false
+        },
+        {
+            "label": "Show on the Menu?",
+            "name": "show_on_the_menu",
+            "form": "checkbox",
+            "values": 1,
+            "type": null,
+            "table_type": "boolean",
+            "required": true,
+            "column": false,
+            "only_main_lang": true
+        }
+    ]
+}

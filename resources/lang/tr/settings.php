@@ -1,0 +1,30 @@
+<?php
+
+return [
+	"module_title" => "Genel Ayarlar",
+	"edit_setting" => "Ayarları Düzenle",
+	"add_setting" => "Yeni Ekle",
+	"logo" => "Logo",
+	"footer_logo" => "Footer Logo",
+	"favicon" => "Favicon",
+	"site_title" => "Site Başlığı",
+	"site_description" => "Site Açıklaması",
+	"admin_email" => "Admin Email",
+	"copyright" => "Copyright",
+	"choose_icon" => "Simge Seçin",
+	"cookie_alert" => "Çerez Uyarısı",
+	"site_images" => "Site Görselleri",
+	"site_informations" => "Site Bilgileri",
+	"color" => "Renk",
+	"html_codes" => "HTML Kodları",
+	"header_html_code" => "Header HTML",
+	"footer_html_code" => "Footer HTML",
+	"social_links" => "Sosyal Bağlantılar",
+	"smtp_configurations" => "SMTP Konfigurasyonu",
+	"google_recaptcha" => "Google Recaptcha",
+	"smtp_host" => "SMTP Host",
+	"smtp_port" => "SMTP Port",
+	"smtp_username" => "SMTP Username",
+	"smtp_password" => "SMTP Password",
+    "site_settings" => "Site Ayarları"
+];
